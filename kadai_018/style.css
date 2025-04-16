@@ -9,9 +9,9 @@
     display: inline-block;
     width: 20%;
     background-color: #ffd9df;
-    margin-left: auto;
-    margin-right: auto;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #middle{
